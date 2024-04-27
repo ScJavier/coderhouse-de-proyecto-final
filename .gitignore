@@ -2,3 +2,4 @@
 airflow_docker/
 .ipynb_checkpoints/
 .vs/
+.env
