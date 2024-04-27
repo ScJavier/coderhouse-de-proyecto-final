@@ -1,0 +1,4 @@
+*.ipynb
+airflow_docker/
+.ipynb_checkpoints/
+.vs/
