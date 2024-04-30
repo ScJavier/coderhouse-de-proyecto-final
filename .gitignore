@@ -4,3 +4,7 @@ airflow_docker/
 .vs/
 .env
 logs/
+dags/__pycache__/
+dags/utils/__pycache__/
+*.pyc
+dags/creds.json
